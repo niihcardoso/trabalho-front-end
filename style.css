@@ -1,13 +1,22 @@
 body {
     color: black;
-    background-color: blanchedalmond;
-}
-.paragrafo-1 {
-    color: black;
+    background-color: white;
 }
 .imagem1 {
-    width: 600px;
+    width: 220px;
 }
 .titulo1 {
     font-size: 25px;
 }
+.texto1 {
+    display: flex;
+}
+.imagem2 {
+    width: 150px;
+}
+.texto2 {
+    display: flex;
+}
+.imagem3 {
+    width: 180px;
+} 
